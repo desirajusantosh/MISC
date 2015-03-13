@@ -1,4 +1,4 @@
-#grey counter
+//grey counter
 
 module(cout, start, rst, clk);
 output logic cout;
